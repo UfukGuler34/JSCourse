@@ -31,23 +31,22 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  
+  background: #4534d4;
 }
-button{
-    width: 150px;
-    height: 60px;
-    margin-left: 50px;
+button {
+  width: 150px;
+  height: 60px;
+  margin: 10px;
 }
 .multiply {
   margin-top: 50px;
   width: 100%;
   display: flex;
   justify-content: center;
-  
 }
-.sum{
-    text-align: center;
-    margin-top: 50px;
+.sum {
+  text-align: center;
+  margin-top: 50px;
 }
 .sum::after {
   content: "";
